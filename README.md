@@ -68,7 +68,7 @@ pip install mesa streamlit numpy matplotlib pandas
 
 Untuk membuka dashboard visual interaktif lengkap di peramban Anda, jalankan perintah berikut di terminal:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
